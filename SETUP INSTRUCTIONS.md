@@ -1,5 +1,3 @@
-# QAEngineer_TrashDash
-
 1. Open Unity 
 2. Import Trash Dash from the Unity Asset Store.
 3. Replace the following scripts
